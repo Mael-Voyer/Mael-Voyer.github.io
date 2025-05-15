@@ -7,7 +7,7 @@ css: /custom/main.css
 
 ---
 
-Hey, I am Maël a PhD student at CEA in Saclay. I focus on the properties of exoplanet atmospheres and improving the data reduciton for JWST.
+Hey, I am Maël a PhD student at CEA in Saclay. I focus on the properties of exoplanet atmospheres and improving the data reduciton for JWST MIRI-LRS and NIRSpec IFU. 
 
 ---
 
@@ -17,8 +17,9 @@ Hey, I am Maël a PhD student at CEA in Saclay. I focus on the properties of exo
 
 ### Research Interests
 My research interests include:
-- Physics and chemistry and everything related to exoplanets and their formation.
+- Physics, chemistry and everything related to exoplanets and their formation.
 - Bayesian retrieval methods.
+- JWST instruments (MIRI, NIRSpec, etc.), ARIEL, PLATO, ELT
 - Science.
 
 ## Curriculum Vitae
