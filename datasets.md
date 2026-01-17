@@ -1,5 +1,10 @@
+---
+layout: page
+title: Datasets
+subtitle: 
+---
 
-### Pre-computed extinction, scattering, and asymmetry grids for aerosols
+# Pre-computed extinction, scattering, and asymmetry grids for aerosols
 
 Understanding clouds and aerosols is essential for interpreting exoplanet and brown-dwarf spectra, especially with the high information content delivered by JWST and upcoming population missions such as ARIEL.
 In atmospheric retrieval frameworks, cloud opacities are commonly computed using Mie theory, which relies on repeated evaluations of the Lorenz–Mie equations across particle sizes and wavelengths. These calculations are computationally expensive and often dominate retrieval run time, particularly when multiple cloud species are included.
