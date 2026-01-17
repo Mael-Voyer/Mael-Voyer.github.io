@@ -11,7 +11,9 @@ Hey, I am Maël a PhD student at CEA in Saclay. I focus on the properties of exo
 
 ---
 
-### PAPER OUT: A COLD EXOPLANET AROUND A WHITE DWARF ! [10.3847/2041-8213/adbd46](https://iopscience.iop.org/article/10.3847/2041-8213/adbd46)
+### New paper, TauREx plugin and dataset !
+
+I recently published a new paper about how we implement clouds models in atmospheric retrievals. In study we show that we can get rid of the computationnaly expensive Mie theory by linearising it. We pre-compute grids of extinction, scattering and asymmetry coefficients for seven species (Silicates, Titan tholins). This provides a significant speed-ups and scaling in retrievals. Compared to retrievals using on the fly Mie theory we obtained speed-ups from 1,4 to 2.3 for single cloud retrievals. However, for retrievals with four clouds we achieved a speed-up of **17 times**. The grids are freely available (https://zenodo.org/records/17456673) as well as a TuREx plugin: TauREx-PCQ that utilizes them (https://github.com/groningen-exoatmospheres/taurex-PCQ/).
 
 ---
 
