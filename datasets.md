@@ -6,9 +6,9 @@ In atmospheric retrieval frameworks, cloud opacities are commonly computed using
 
 To overcome this limitation, we developed pre-computed grids of aerosol optical properties for seven condensate species relevant to exoplanet atmospheres (silicates and Titan tholins).
 For each species, we pre-compute:
-	•	the extinction efficiency $Q_\mathrm{ext}$,
-	•	the scattering efficiency $Q_\mathrm{scat}$,
-	•	and the asymmetry parameter $g$,
+- the extinction efficiency $Q_\mathrm{ext}$,
+- the scattering efficiency $Q_\mathrm{scat}$,
+- and the asymmetry parameter $g$,
 
 over a wide range of particle radii (1 nm to 30 microns) and wavelengths (0.3–50 µm).
 
