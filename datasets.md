@@ -39,7 +39,7 @@ We carefully control interpolation errors, ensuring relative errors below $10^{-
 Unlike direct Mie calculations, computation time does not increase exponentially with the number of cloud species, making this approach well suited for population studies and high-dimensional retrievals.
 
 - Compatible with both retrievals and self-consistent models:
-Although current free retrievals mainly use $Q_\mathrm{ext}$, the inclusion of $Q_\mathrm{scat}$ and $g$ makes these grids directly applicable to more advanced radiative-transfer and cloud models.
+Although current free retrievals mainly use Q_ext, the inclusion of Q_scat and $g$ makes these grids directly applicable to more advanced radiative-transfer and cloud models.
 
 Access to the data
 
