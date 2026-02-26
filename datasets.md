@@ -26,7 +26,8 @@ The specific species already released are:
 - SiO2 alpha,
 - SiO2 amorph,
 - SiO,
-- Titan tholins.
+- Titan tholins,
+# - New addition: water ice. 
 
 These grids provide:
 -	Orders-of-magnitude speed-up:
@@ -45,7 +46,7 @@ Access to the data
 
 All grids are freely available on Zenodo:
 
-👉 [https://doi.org/10.5281/zenodo.17456673](https://doi.org/10.5281/zenodo.17456673)
+👉 [https://zenodo.org/records/18784056](https://zenodo.org/records/18784056)
 
 We also provide TauREx-PCQ ([https://github.com/groningen-exoatmospheres/taurex-PCQ](https://github.com/groningen-exoatmospheres/taurex-PCQ)), a public plugin that integrates these grids directly into the TauREx atmospheric retrieval framework, enabling fast and scalable cloud modelling with minimal user overhead.
 
