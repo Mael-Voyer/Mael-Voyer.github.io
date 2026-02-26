@@ -27,7 +27,7 @@ The specific species already released are:
 - SiO2 amorph,
 - SiO,
 - Titan tholins,
-**- New addition: water ice.**
+- **New addition: water ice.**
 
 These grids provide:
 -	Orders-of-magnitude speed-up:
