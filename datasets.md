@@ -48,6 +48,6 @@ All grids are freely available on Zenodo:
 
 👉 [https://zenodo.org/records/18784056](https://zenodo.org/records/18784056)
 
-We also provide TauREx-PCQ ([https://github.com/groningen-exoatmospheres/taurex-PCQ](https://github.com/groningen-exoatmospheres/taurex-PCQ)), a public plugin that integrates these grids directly into the TauREx atmospheric retrieval framework, enabling fast and scalable cloud modelling with minimal user overhead.
+We also provide TauREx-PCQ ([https://github.com/groningen-exoatmospheres/taurex-PCQ](https://github.com/groningen-exoatmospheres/taurex-PCQ)), a public plugin that integrates these grids directly into the TauREx atmospheric retrieval framework, enabling fast and scalable cloud modelling with minimal user overhead. Now directly available from Pypi: `pip install taurex-pcq`
 
 ---
