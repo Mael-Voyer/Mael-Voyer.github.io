@@ -17,7 +17,7 @@ Hey, I am Maël a PhD student at CEA in Saclay. I focus on the properties of exo
 
 ### New paper, TauREx plugin and dataset.
 
-<img src="/img/taurex_pcq_logo.png" 
+<img src="/img/taurex-pcq_logo.jpg" 
      alt="TauREx-PCQ logo" 
      width="220" 
      align="right"
