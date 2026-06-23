@@ -29,7 +29,7 @@ navbar-links:
   # Links: "links"
   Home: ""
   Publications: "publications"
-  #Projects: "projects"
+  Projects: "projects"
   Datasets: "datasets"
   Outreach: "teaching"
   #CV: "CV"
